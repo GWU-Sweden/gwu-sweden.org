@@ -1,8 +1,13 @@
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 
 @app.route('/')
 def index():
-  return "Welcome to GWU Sweden, a local chapter of Game Workers Unite. Nothing here yet but do check back soon."
+  return render_template('index.html')
+
+
+@app.route('/join')
+def join():
+  return render_template('join.html')
