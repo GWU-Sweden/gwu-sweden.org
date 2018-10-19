@@ -8,17 +8,29 @@
 			href="{{ url_for('static', filename='favicon.ico') }}"
 			type="image/vnd.microsoft.icon"
 		>
+		<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+		<link rel="stylesheet" href="{{ url_for('static', filename='normalize.css') }}" type="text/css">
+		<link rel="stylesheet" href="{{ url_for('static', filename='typebase.css') }}" type="text/css">
 		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css">
 	</head>
 	<body>
-		<div id="page-container">
+		<div id="container">
 			<header>
-				<nav>
+				<nav id="main-menu">
 					<a href="{{ url_for('index') }}">Home</a>
 					<a href="{{ url_for('join') }}">Join</a>
 				</nav>
+				<ul id="social">
+					<li><a id="twitter" href="https://twitter.com/GWU_Sweden" aria-label="GWU_Sweden on Twitter"></a></li>
+				</ul>
+				<footer>
+					GWU Sweden<br>&copy; 2018
+				</footer>
 			</header>
-			{% block body %}{% endblock %}
+			<div id="content">
+				{% block body %}{% endblock %}
+			</div>
+			<div class="clearfix"></div>
 		</div>
 	</body>
 </html>
