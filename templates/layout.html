@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<title>GWU Sweden</title>
@@ -12,6 +12,11 @@
 		<link rel="stylesheet" href="{{ url_for('static', filename='normalize.css') }}" type="text/css">
 		<link rel="stylesheet" href="{{ url_for('static', filename='typebase.css') }}" type="text/css">
 		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" type="text/css">
+		<meta name="twitter:card" content="summary"></meta>
+		<meta name="twitter:site" content="@GWU_Sweden"></meta>
+		<meta property="og:title" content="GWU Sweden"/>
+		<meta property="og:description" content="The local Sweden chapter of Game Workers Unite. Building community and organizing workers. ✊🏾🎮"/>
+		<meta property="og:image" content="https://gwu-sweden.org/static/og.png"/>
 	</head>
 	<body>
 		<div id="container">
@@ -23,9 +28,9 @@
 				<ul id="social">
 					<li><a id="twitter" href="https://twitter.com/GWU_Sweden" aria-label="GWU_Sweden on Twitter"></a></li>
 				</ul>
-				<footer>
+				<div id="footer">
 					GWU Sweden<br>&copy; 2018
-				</footer>
+				</div>
 			</header>
 			<div id="content">
 				{% block body %}{% endblock %}
