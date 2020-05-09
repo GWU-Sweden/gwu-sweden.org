@@ -9,7 +9,7 @@ The 2nd Annual General Meeting of GWU Sweden will be held **Sunday, May 24th, 20
 
 No motions to bring to a vote have been submitted to the board, so the agenda will be very standard. See attachments below for full details.
 
-With solidarity,\
+With solidarity,  
 Tobias and the rest of the board.
 
 ---
