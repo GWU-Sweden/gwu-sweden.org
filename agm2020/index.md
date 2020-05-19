@@ -43,4 +43,26 @@ Tobias and the rest of the board.
 
 ### 2. Annual Report 2019/2020
 
-Will be made available at this location prior to the meeting.
+Following is a brief report of GWU Sweden's activities for the period April 29th 2019 — May 24th 2020.
+
+#### Board
+
+The board has consisted of Tobias Möllstam, chair; Linus Neuman, secretary; and Tristan Louet, treasurer.
+
+#### Activities
+
+It's been a quite slow simmering year. The main focus of the board, in addition to getting a basic process in place, has been to setup a bank account and some financial services which has thankfully last week moved into the final stages with signing a deal with Handelsbanken. No financial data is included in this report due to the lack of financial activity, which at least makes for a much neater report. :-)
+
+Work on an English zine regarding workers' rights in Sweden has been outlined by `@Lia-Sae` and anyone wanting to contribute in different ways can head over to the `#workers-rights-zine` channel on Discord.
+
+Other than that there is ongoing work on how to structure and work with the membership process. The Membership Committee was formed to dicuss this in more detail (looking for chair!), come join the `#membership` channel on Discord if you'd like to take part.
+
+#### Members
+
+GWU Sweden went from 41 to 57 during the period.
+
+Take care,  
+Tobias, Linus, and Tristan.  
+Knivsta, 19th May, 2020.
+
+---
