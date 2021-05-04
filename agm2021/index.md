@@ -14,7 +14,13 @@ Tobias and the rest of the board.
 
 ---
 
-**Please note:** If you're interested in helping out organising GWU Sweden please talk to `@Exorph` on Discord, who is part of our nominating committee! 
+**Please note:** If you're interested in helping out organising GWU Sweden please talk to `@Exorph` on Discord, who is part of our nominating committee!
+
+Seats that are to be filled on the AGM:
+
+- Board of directors
+- Auditor and deputy
+- Nominating committee
 
 The org needs you. 🏗️
 
