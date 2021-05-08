@@ -5,7 +5,7 @@ title: "GWU Sweden 2021 AGM"
 
 # Invitation to GWU Sweden's Annual General Meeting 2021
 
-The 3rd Annual General Meeting of GWU Sweden will be held **Sunday, May 23rd, 2021, at 19:30** on the GWU Sweden Discord server in the `#meetings` channel.
+The 3rd Annual General Meeting of GWU Sweden will be held **Sunday, May 23rd, 2021, at 14:00** on the GWU Sweden Discord server in the `#meetings` channel.
 
 No motions to bring to a vote have been submitted to the board, so the agenda will be very standard. See attachments below for full details.
 
