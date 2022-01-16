@@ -39,15 +39,5 @@ The org needs you. 🏗️
 5. Election of two scrutineers who will also approve the minutes
 6. Approval of general meeting invitation in accordance with bylaws
 7. Affirmation of voters' roll
-8. Presentation of annual report from the board of directors
-9. Presentation of auditor's report
-10. Decision to affirm financial statement
-11. Decision regarding the handling of financial result
-12. Decision to grant members of the board freedom from liability
-13. Decision regarding dues for membership for the coming year
-14. Decision regarding remuneration to board of directors and auditor for the coming year
-15. Election of members and alternates to board of directors
-16. Election of auditor and deputy auditor
-17. Election of nominating committee
-18. Motion to invoke Extra AGM to find a replacement for Tristan leaving the board.
-19. Closing remarks
+8. Election of a new board member to replace Tristan
+9. Closing remarks
