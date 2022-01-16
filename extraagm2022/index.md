@@ -18,9 +18,7 @@ Linus and the rest of the board.
 
 Seats that are to be filled on the AGM:
 
-- Board of directors
-- Auditor and deputy
-- Nominating committee
+- One member of board of directors
 
 The org needs you. 🏗️
 
