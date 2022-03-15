@@ -59,13 +59,13 @@ The board has consisted of Linus Neuman, chair; Love Arvidsson, secretary; and T
 
 #### Activities
 
-It has been a long year where the board has put all effort into separating the organization from Tobias into its own entity and body.
+It has been a long year where the board has put all effort into separating Tobias's private initial setup for GWU, into GWUs hands as an organization instead.
 
 We established the following goals:
 * Finishing the transition process and decoupling the board entirely from Tobias.
 
 The organization now knows the membership process, how to update the website, and more.
-However, as Tristan has been relieved from his duties due to personal reasons, there is no board member with access to our bank account. Getting access to Linus and Love has been a hurdle so far.
+However, as Tristan has been relieved from his duties due to personal reasons, there is no board member with access to our bank account. Getting access for Linus and Love has been a hurdle so far.
 
 * Establishing the presence of GWU Sweden in the industry.
 
