@@ -63,18 +63,22 @@ It has been a long year where the board has put all effort into separating the o
 
 We established the following goals:
 * Finishing the transition process and decoupling the board entirely from Tobias.
-- The organization now knows the membership process, how to update the website, and more.
-- However, as Tristan has been relieved from his duties due to personal reasons, there is no board member with access to our bank account. Getting access to Linus and Love has been a hurdle so far.
+
+The organization now knows the membership process, how to update the website, and more.
+However, as Tristan has been relieved from his duties due to personal reasons, there is no board member with access to our bank account. Getting access to Linus and Love has been a hurdle so far.
 
 * Establishing the presence of GWU Sweden in the industry.
- - We have established a Twitter-process which enabled us to get some attention on social media and landed us two interviews.
- - One interview in SvD, and one in Flamman.
+
+We have established a Twitter-process which enabled us to get some attention on social media and landed us two interviews.
+One interview in SvD, and one in Flamman.
 
 https://www.svd.se/ar-stora-problem-som-facken-inte-far-reda-pa
+
 flamman.se/a/folk-arbetar-under-forhallanden-man-inte-tror-finns
 
 * Growing the membership of GWU Sweden
- - We have a rather steady influx of members, but it's not in the pace we desire. For various reasons, we have not been very active and we have not been able to meet up in person.
+
+We have a rather steady influx of members, but it's not in the pace we desire. For various reasons, we have not been very active and we have not been able to meet up in person.
 
 #### Finance
 
