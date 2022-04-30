@@ -5,9 +5,9 @@ title: "GWU Sweden 2022 AGM"
 
 # Invitation to GWU Sweden's Annual General Meeting 2022
 
-The 4th Annual General Meeting of GWU Sweden will be held **Thursday, May 31st, 2022, at 19:00** on the GWU Sweden Discord server in the `#meetings` channel.
+The 4th Annual General Meeting of GWU Sweden will be held **Sunday, May 22nd, 2022, at 16:00** on the GWU Sweden Discord server in the `#meetings` channel.
 
-No motions to bring to a vote have been submitted to the board, so the agenda will be very standard. See attachments below for full details.
+Unless any motions to bring to a vote gets submitted to the board, the agenda will be very standard. See attachments below for full details.
 
 With solidarity,  
 Linus and the rest of the board.
@@ -51,7 +51,7 @@ The org needs you. 🏗️
 
 ### 2. Board's Annual Report
 
-Following is a brief report of GWU Sweden's activities for the period May 25th 2020 — May 22nd 2021.
+Following is a brief report of GWU Sweden's activities for the period May 22nd 2021 — May 22nd 2022.
 
 #### Board
 
@@ -87,7 +87,7 @@ Coming soon
 #### GWU International
 
 GWU International has merged back into one big org instead of two separate ones.
-They have invited us to join, but we have not been able to spend any effort or time on this unfortunately as it requires changing our bylaws which is time consuming.
+They have invited us to join, but we have not been able to spend any effort or time on this unfortunately as it requires changing our bylaws which is too time consuming at the moment.
 
 #### Members
 
@@ -96,7 +96,7 @@ GWU Sweden membership went from 69 to 76 during the period.
 
 Take care,  
 Linus, together with Love and Tristan.  
-Stockholm, 15th May, 2022.
+Stockholm, 30th April, 2022.
 
 
 ### 3. Auditor Report
