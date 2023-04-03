@@ -5,7 +5,7 @@ title: "GWU Sweden 2023 AGM"
 
 # Invitation to GWU Sweden's Annual General Meeting 2023
 
-The 4th Annual General Meeting of GWU Sweden will be held **Sunday, May 21st, 2023, at 16:00** on the GWU Sweden Discord server in the `#meetings` channel.
+The 5th Annual General Meeting of GWU Sweden will be held **Sunday, May 21st, 2023, at 16:00** on the GWU Sweden Discord server in the `#meetings` channel.
 
 Unless any motions to bring to a vote gets submitted to the board, the agenda will be very standard. See attachments below for full details.
 
