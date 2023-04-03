@@ -1,11 +1,11 @@
 ---
 layout: agm
-title: "GWU Sweden 2022 AGM"
+title: "GWU Sweden 2023 AGM"
 ---
 
-# Invitation to GWU Sweden's Annual General Meeting 2022
+# Invitation to GWU Sweden's Annual General Meeting 2023
 
-The 4th Annual General Meeting of GWU Sweden will be held **Sunday, May 22nd, 2022, at 16:00** on the GWU Sweden Discord server in the `#meetings` channel.
+The 4th Annual General Meeting of GWU Sweden will be held **Sunday, May 21st, 2023, at 16:00** on the GWU Sweden Discord server in the `#meetings` channel.
 
 Unless any motions to bring to a vote gets submitted to the board, the agenda will be very standard. See attachments below for full details.
 
@@ -51,11 +51,11 @@ The org needs you. 🏗️
 
 ### 2. Board's Annual Report
 
-Following is a brief report of GWU Sweden's activities for the period May 22nd 2021 — May 22nd 2022.
+Following is a brief report of GWU Sweden's activities for the period May 22nd 2022 — May 21st 2023.
 
 #### Board
 
-The board has consisted of Linus Neuman, chair; Love Arvidsson, secretary; and Tristan Louet, treasurer.
+The board has consisted of Linus Neuman, chair; Love Arvidsson, secretary; Simon Haggren, treasurer; and Mat Sieradziński.
 
 #### Activities
 
@@ -95,8 +95,8 @@ GWU Sweden membership went from 69 to 76 during the period.
 
 
 Take care,  
-Linus, together with Love and Tristan.  
-Stockholm, 30th April, 2022.
+Linus, Love, Simon, and Mat.
+Stockholm, 23rd April, 2023.
 
 
 ### 3. Auditor Report
