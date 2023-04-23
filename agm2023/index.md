@@ -14,7 +14,7 @@ Linus and the rest of the board.
 
 ---
 
-**Please note:** If you're interested in helping out organising GWU Sweden please talk to `@Exorph` on Discord, who is part of our nominating committee!
+**Please note:** If you're interested in helping out organising GWU Sweden please talk to `@Tobmo` on Discord, who is part of our nominating committee!
 
 Seats that are to be filled on the AGM:
 
@@ -59,26 +59,10 @@ The board has consisted of Linus Neuman, chair; Love Arvidsson, secretary; Simon
 
 #### Activities
 
-It has been a long year where the board has put all effort into separating Tobias's private initial setup for GWU, into GWUs hands as an organization instead.
+It has been a slow year due to the board being too busy to focus on the organization.
+The overall goal has been to spread awareness and try to arrange meet ups.
 
-We established the following goals:
-* Finishing the transition process and decoupling the board entirely from Tobias.
-
-The organization now knows the membership process, how to update the website, and more.
-However, as Tristan has been relieved from his duties due to personal reasons, there is no board member with access to our bank account. Getting access for Linus and Love has been a hurdle so far.
-
-* Establishing the presence of GWU Sweden in the industry.
-
-We have established a Twitter-process which enabled us to get some attention on social media and landed us two interviews.
-One interview in SvD, and one in Flamman.
-
-https://www.svd.se/ar-stora-problem-som-facken-inte-far-reda-pa
-
-flamman.se/a/folk-arbetar-under-forhallanden-man-inte-tror-finns
-
-* Growing the membership of GWU Sweden
-
-We have a rather steady influx of members, but it's not in the pace we desire. For various reasons, we have not been very active and we have not been able to meet up in person.
+We have a rather steady influx of members and we are now 83 members.
 
 #### Finance
 
@@ -86,12 +70,11 @@ Coming soon
 
 #### GWU International
 
-GWU International has merged back into one big org instead of two separate ones.
-They have invited us to join, but we have not been able to spend any effort or time on this unfortunately as it requires changing our bylaws which is too time consuming at the moment.
+ GWU International are still pending us mending our bylaws to join, which is something we've put off.
 
 #### Members
 
-GWU Sweden membership went from 69 to 76 during the period.
+GWU Sweden membership went from 76 to 83 during the period.
 
 
 Take care,  
