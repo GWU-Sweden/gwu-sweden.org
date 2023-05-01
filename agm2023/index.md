@@ -66,7 +66,8 @@ We have a rather steady influx of members and we are now 85 members.
 
 #### Finance
 
-Coming soon
+We've gotten 2000 SEK in donations since the last AGM, and we've had 2169 SEK in expenses. Thanks to donations last year, we landed at 190 SEK in the account.
+The biggest expense is the yearly fee for the bank account (1250 SEK/year) followed by the Swish-fee at 39 SEK per month.
 
 #### GWU International
 
